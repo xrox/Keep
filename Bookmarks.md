@@ -14,5 +14,5 @@ http://www.oschina.net/news/72384/zrlog-1-5
 **伯乐在线**
 https://github.com/jobbole
 
-**GitLab:项目管理和代码托管平台*
+**GitLab:项目管理和代码托管平台**
 http://www.oschina.net/news/73651/gitlab-8-8
