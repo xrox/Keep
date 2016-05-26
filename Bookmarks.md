@@ -16,3 +16,6 @@ https://github.com/jobbole
 
 **GitLab:项目管理和代码托管平台**
 http://www.oschina.net/news/73651/gitlab-8-8
+
+**Windows系统利用XX-Net软件进行科学上网教程** 
+http://www.wtoutiao.com/p/199pj4O.html
